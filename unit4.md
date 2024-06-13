@@ -10,6 +10,8 @@ Precision and recall are two important metrics used to evaluate the performance 
 
 
 
+
+
 - **Recall**: Recall, also known as sensitivity or true positive rate, measures the ability of the model to capture all the positive instances in the dataset. It answers the question: "Of all the actual positive instances, how many did the model correctly identify?" Mathematically, recall is calculated as the ratio of true positives to the sum of true positives and false negatives (positive instances incorrectly classified as negative). The formula for recall is:
 
   \[ \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} \]
