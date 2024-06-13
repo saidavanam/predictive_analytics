@@ -4,6 +4,8 @@ Precision and recall are two important metrics used to evaluate the performance 
 
 - **Precision**: Precision measures the accuracy of positive predictions made by the model. It answers the question: "Of all the instances predicted as positive, how many are actually positive?" Mathematically, precision is calculated as the ratio of true positives (correctly predicted positive instances) to the sum of true positives and false positives (incorrectly predicted positive instances). The formula for precision is:
   
+
+
 \[ \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}} \]
 
 
